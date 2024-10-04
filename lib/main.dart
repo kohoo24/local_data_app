@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
+
 import 'package:localdata_app01/pages/search.dart';
 
 void main() {
+  // 웹에서만 URL 전략을 설정
   runApp(const MyApp());
 }
 
